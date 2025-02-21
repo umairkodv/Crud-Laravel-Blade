@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
    npm install && npm run build
    ```
 
-3. Copy the `.env` file and configure your environment variables importantly:
+3. Copy the `.env` file and configure your environment variables:
    ```bash
    cp .env.example .env
    ```
