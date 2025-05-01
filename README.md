@@ -1,5 +1,5 @@
 # Laravel CRUD: Blade Breeze Version
-  
+   
 This project is a simple Laravel CRUD for Tasks model built on top of Laravel Breeze starter kit Blade version.
 
 ![](https://laraveldaily.com/uploads/2024/12/crud-breeze-tasks.png)
